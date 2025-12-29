@@ -1,0 +1,35 @@
+# requirements.txt
+# Install everything with:
+#   pip install -r requirements.txt
+#
+# What these packages do:
+# - pandas, numpy             : data loading + calculations
+# - matplotlib, seaborn       : plots and charts (static visuals)
+# - plotly                    : interactive plots
+# - nltk                      : tokenization, stopwords, lemmatization, VADER sentiment
+# - gensim                    : topic modeling (LDA)
+# - pyLDAvis                  : interactive topic visualization for LDA
+# - wordcloud                 : word cloud visuals
+# - pycountry                 : country list for mention detection
+# - scikit-learn              : utilities (vectorization/helpers if needed)
+# - tqdm                      : progress bars (optional but helpful)
+# - jupyter, ipykernel        : run notebooks locally
+
+pandas
+numpy
+
+matplotlib
+seaborn
+plotly
+
+nltk
+gensim
+pyLDAvis
+wordcloud
+pycountry
+
+scikit-learn
+tqdm
+
+jupyter
+ipykernel

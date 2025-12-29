@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+
+# Git attributes (ignore if not needed)
+.gitattributes
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Large datasets
+*.csv
+*.zip
